@@ -2,15 +2,17 @@
 	<img class="w-1/2 pt-4 ml-2" src="logo.svg" alt="Logo" />
 
 	<div class="my-40">
-		<h2 class="text-[24px] w-[70%] mx-auto">The #1 FEED Made For Gamers</h2>
+		<h2 class="text-[24px] w-[80%] mx-auto font-rubikGlitch">The #1 FEED Made For Gamers</h2>
 		<p class="my-10 mx-1 font-light">
-			The number plateform for finding informations about games, game deals, free games and a whole
-			lot more contents about gaming.
+			The #1 plateform for finding informations about games, game deals, free games and a whole lot
+			more contents about gaming.
 		</p>
 		<a
 			href="#"
 			class="bg-white text-[#150C39] p-2 rounded-md font-semibold shadow-[0_4px_59px_rgba(215,208,208,0.7)]"
 			>Enter the matrix</a
 		>
+
+		<p class="absolute right-0 bottom-0 text-xs p-2">Made With 💓 By yrnclark</p>
 	</div>
 </main>
