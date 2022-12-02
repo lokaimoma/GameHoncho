@@ -10,7 +10,7 @@
 			more contents about gaming.
 		</p>
 		<a
-			href="#"
+			href="/app"
 			class="bg-white text-[#150C39] p-2 rounded-md font-semibold shadow-[0_4px_59px_rgba(215,208,208,0.7)]"
 			>Enter the matrix</a
 		>
