@@ -1,9 +1,11 @@
 <main class="bg-gradient-to-br from-[#000] to-[#150C39] h-[100vh] text-white text-center">
-	<img class="w-1/2 pt-4 ml-2" src="logo.svg" alt="Logo" />
+	<img class="w-1/2 lg:w-[208.93px] pt-4 ml-2 lg:ml-[45px]" src="logo.svg" alt="Logo" />
 
 	<div class="my-40">
-		<h2 class="text-[24px] w-[80%] mx-auto font-rubikGlitch">The #1 FEED Made For Gamers</h2>
-		<p class="my-10 mx-1 font-light">
+		<h2 class="text-[24px] lg:text-[40px] w-[80%] mx-auto font-rubikGlitch">
+			The #1 FEED Made For Gamers
+		</h2>
+		<p class="my-10 lg:text-[24px] lg:w-[580px] lg:mx-auto mx-1 font-light">
 			The #1 plateform for finding informations about games, game deals, free games and a whole lot
 			more contents about gaming.
 		</p>
